@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{953BC7D8-2D38-4FE3-960A-A697A0F8D475}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BowlingGameTests/GameTest.cs">
+    <Files>
+      <File FileName="Bowling/Game.cs" Line="20" Column="27" />
+      <File FileName="Bowling/Program.cs" Line="1" Column="1" />
+      <File FileName="BowlingGameTests/UnitTest1.cs" Line="17" Column="6" />
+      <File FileName="BowlingGameTests/Usings.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bowling" expanded="True">
+            <Node name="Bowling" expanded="True" />
+            <Node name="BowlingGameTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BowlingGameTests PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Bowling PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+</Properties>
